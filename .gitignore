@@ -1,0 +1,14 @@
+# Arquivos de configuração
+.env
+node_modules/*
+
+# Arquivos de log e cache
+*.log
+*.sqlite
+*.sqlite3
+
+# Arquivos de compilação
+/build/
+
+# Dependências de pacotes
+package-lock.json
